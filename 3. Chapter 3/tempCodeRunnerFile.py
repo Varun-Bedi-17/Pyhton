@@ -1,0 +1,2 @@
+
+# print(story.capitalize())
